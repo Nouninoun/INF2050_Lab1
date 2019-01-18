@@ -1,5 +1,5 @@
 Sabrina ...Apprendre GIT
->>>>>>> 9bb516dfff42e0f42391361f00e6a2d712b5a4e9
+
 # INF2050 Laboratoire 1 : Utilisation de Git
 
 ## Au préalable
