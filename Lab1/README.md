@@ -1,4 +1,4 @@
-Sabine ...Apprendre GIT
+Sabrina ...Apprendre GIT
 # INF2050 Laboratoire 1 : Utilisation de Git
 
 ## Au préalable
