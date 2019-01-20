@@ -1,5 +1,5 @@
 # Ceci est un titre
-## Ceci est un sous titre!
+## Ceci est un sous titre
 
 Bienvenue sur le projet du Laboratoire 1.
 Ce projet est effectué par : Romy Valiquette-Labonté.  
