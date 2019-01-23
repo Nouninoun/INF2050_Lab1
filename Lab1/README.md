@@ -1,4 +1,4 @@
-# INF2050 Laboratoire 1 : Utilisation de Git - test
+# INF2050 Laboratoire 1 : Utilisation de Git - test - test2
 
 ## Au préalable
 Tout d'abord vérifiez votre installation de Git : [Installation de Git](GIT_installation.md)  
