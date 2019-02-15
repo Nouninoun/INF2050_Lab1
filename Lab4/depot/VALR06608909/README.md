@@ -3,13 +3,16 @@
 ## [type logiciel] - [type licence]
 
 - Nom du logiciel
-blablabla
-- Licence : blablabla
-blablabla
+: blablabla
+
+- Licence
+: blablabla
+
 - Autorisations
-blablabla
+: blablabla
+
 - Restrictions
-blablabla
+: blablabla
 
 ## [type logiciel] - [type licence]
 
@@ -25,3 +28,88 @@ blablabla
 - Restrictions
 : blablabla
 
+## [type logiciel] - [type licence]
+
+- Nom du logiciel
+: blablabla
+
+- Licence
+: blablabla
+
+- Autorisations
+: blablabla
+
+- Restrictions
+: blablabla
+
+## [type logiciel] - [type licence]
+
+- Nom du logiciel
+: blablabla
+
+- Licence
+: blablabla
+
+- Autorisations
+: blablabla
+
+- Restrictions
+: blablabla
+
+## [type logiciel] - [type licence]
+
+- Nom du logiciel
+: blablabla
+
+- Licence
+: blablabla
+
+- Autorisations
+: blablabla
+
+- Restrictions
+: blablabla
+
+## [type logiciel] - [type licence]
+
+- Nom du logiciel
+: blablabla
+
+- Licence
+: blablabla
+
+- Autorisations
+: blablabla
+
+- Restrictions
+: blablabla
+
+## [type logiciel] - [type licence]
+
+- Nom du logiciel
+: blablabla
+
+- Licence
+: blablabla
+
+- Autorisations
+: blablabla
+
+- Restrictions
+: blablabla
+
+## [type logiciel] - [type licence]
+
+- Nom du logiciel
+: blablabla
+
+- Licence
+: blablabla
+
+- Autorisations
+: blablabla[^1]
+
+- Restrictions
+: blablabla
+
+[^1]: source...test...
