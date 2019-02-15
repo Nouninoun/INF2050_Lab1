@@ -3,23 +3,25 @@
 ## [type logiciel] - [type licence]
 
 - Nom du logiciel
-- Licence
+blablabla
+- Licence : blablabla
+blablabla
 - Autorisations
+blablabla
 - Restrictions
+blablabla
 
 ## [type logiciel] - [type licence]
 
-*faire un liste - essayer definition list*
-
-Nom du logiciel
+- Nom du logiciel
 : blablabla
 
-Licence
+- Licence
 : blablabla
 
-Autorisations
+- Autorisations
 : blablabla
 
-Restrictions
+- Restrictions
 : blablabla
 
