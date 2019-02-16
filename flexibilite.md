@@ -10,7 +10,7 @@ Source: Gradle(https://gradle.org/maven-vs-gradle/)
 Le model Gradle peut être utilisé pour du développement de C/C++ et peut être étendu à n'importe quel écosystème.
 
 ## Gradle vs Maven
-    L'outil qui a une meilleure fléxibilité entre Maven et Gradle est:  **Gradle**
+L'outil qui a une meilleure fléxibilité entre Maven et Gradle est:  **Gradle**
     Voici Pourquoi:
     1.  Gradle a une meilleure capacité d'automatisation des tâches
     2.  Gradle est conçu pour les usagers responsables
