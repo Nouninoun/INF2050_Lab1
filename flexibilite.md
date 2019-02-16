@@ -11,7 +11,7 @@ Le model Gradle peut être utilisé pour du développement de C/C++ et peut êtr
 
 ## Gradle vs Maven
 L'outil qui a une meilleure fléxibilité entre Maven et Gradle est:  **Gradle**
-    Voici Pourquoi:
+Voici Pourquoi:
     1.  Gradle a une meilleure capacité d'automatisation des tâches
     2.  Gradle est conçu pour les usagers responsables
     3.  Flexible car il est basé sur un script.
@@ -32,4 +32,4 @@ L'outil qui a une meilleure fléxibilité entre Maven et Gradle est:  **Gradle**
     16. Favorable aux plugins
     17.  Le langage Kotlin permet d'adapter l'outil aux besoins de l'usager et est plus flexible que le XML
 
-    Toutes ces raisons sont pourquoi **Gradle** est le meilleur outil en termes de *flexibilité*.
+Toutes ces raisons sont pourquoi **Gradle** est le meilleur outil en termes de *flexibilité*.
