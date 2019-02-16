@@ -6,7 +6,7 @@ La flexibilité d'un outil de build est détérminée par sa capacité de subven
 ## Pourquoi ce critère est important?
 Ce critère est l'un des plus importants chez les développeurs dans leurs choix d'outil car dépendamment des besoins, certains outils sont préférables à d'autres.
 Par exemple, Google a choisi **Gradle** comme outil de build officiel pour **Android** parce que Gradle est modelé d'une facon qui est extensible. 
-Source: Gradle(https://gradle.org/maven-vs-gradle/)
+Source: https://gradle.org/maven-vs-gradle/
 Le model Gradle peut être utilisé pour du développement de C/C++ et peut être étendu à n'importe quel écosystème.
 
 ## Gradle vs Maven
