@@ -1,4 +1,4 @@
-Sabrina ...Apprendre GIT
+﻿C'est nouveau pour moi tout ca
 
 # INF2050 Laboratoire 1 : Utilisation de Git
 
